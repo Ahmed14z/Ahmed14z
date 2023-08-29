@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mansy</h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Passionate%IOS%Developer%20!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Passionate%20IOS%20Developer%20!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
 
 - 🔭 I’m currently working on [Messenger Clone](https://github.com/Ahmed14z/Messanger_IOS)
