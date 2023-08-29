@@ -1,37 +1,42 @@
-
-
-<h3 align="center">
-<h1 align="center">Hi 👋, I'm Ahmed Mansy</h1>
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Passionate%20IOS%20Developer!&font=Fantasy%20Code&center=true&width=480&height=45&color=CB2604&vCenter=true&size=30"></a>
-  <div>  <img width="450" height="250" align="right"  src="https://media.tenor.com/F9tmmNBBegsAAAAC/kaito-typing.gif"></div>
- 
-
-
-</p> 
-
+  <img src="header.gif" alt="Header">
 </p>
 
+<h1 align="center">Hey there! I'm Ahmed Mansy 👋</h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Passionate%20iOS%20Developer!&font=Fantasy%20Code&center=true&width=500&height=45&color=CB2604&vCenter=true&size=30">
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Messenger Clone](https://github.com/Ahmed14z/Messanger_IOS)
+<p align="center">
+  <img width="400" height="250" align="right" src="https://media.tenor.com/F9tmmNBBegsAAAAC/kaito-typing.gif">
+</p>
 
-- 🌱 I’m currently learning **IOS Development**
+<p align="center">
+  <em>Currently crafting amazing things at <a href="https://github.com/Ahmed14z/Messanger_IOS">Messenger Clone</a></em>
+</p>
 
-- 💬 Ask me about **IOS Projects!**
+<p align="center">
+  <em>Learning the art of <b>iOS Development</b> 🌱</em>
+</p>
 
-- 📫 How to reach me **ahmedeslam1582002@gmail.com**
+<p align="center">
+  <em>Feel free to ask me about <b>iOS Projects</b> 💬</em>
+</p>
 
+<p align="center">
+  <em>Connect with me via <a href="mailto:ahmedeslam1582002@gmail.com">email</a> 📫</em>
+</p>
 
-- 📄 My experience & Projects <a href="https://drive.google.com/file/d/1Ttqim_tSvczu4DRF2q-tkkR8c-vSWB8A/view?usp=share_link">**My Resume**</a>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Ttqim_tSvczu4DRF2q-tkkR8c-vSWB8A/view?usp=share_link">Check out my impressive journey and projects in my resume</a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedz14z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedz14z" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-mansy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mansy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/ahmedz14z" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ahmed-mansy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
