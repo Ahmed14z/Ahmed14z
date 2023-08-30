@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <em>Currently crafting amazing things at <a href="https://github.com/Ahmed14z/Messanger_IOS">Messenger Clone</a></em>
+  <em>Currently crafting amazing things at <a href="https://github.com/Ahmed14z/FINGU_Assistant">FINGU</a></em>
 </p>
 
 <p align="center">
