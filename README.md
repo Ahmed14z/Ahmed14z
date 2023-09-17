@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  <em>Learning the art of <b>iOS Development</b> 🌱</em>
+  <em>Learning the art of <b> Back End & iOS Development</b> 🌱</em>
 </p>
 
 <p align="center">
-  <em>Feel free to ask me about <b>iOS Projects</b> 💬</em>
+  <em>Feel free to ask me about <b> Back End Python related Projects & IOS Related Projects</b> 💬</em>
 </p>
 
 <p align="center">
