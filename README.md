@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Passionate%20iOS%20Developer!&font=Fantasy%20Code&center=true&width=500&height=45&color=CB2604&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Full%20Stack%20Developer&font=Fantasy%20Code&center=true&width=500&height=45&color=CB2604&vCenter=true&size=30">
   </a>
 </p>
 
@@ -15,23 +15,23 @@
 </p>
 
 <p align="center">
-  <em>Currently crafting amazing things at <a href="https://github.com/Ahmed14z/FINGU_Assistant">FINGU</a></em>
+  <em>Innovating at <a href="https://github.com/Ahmed14z/FINGU_Assistant">FINGU</a>, where creativity meets technology</em>
 </p>
 
 <p align="center">
-  <em>Learning the art of <b> Back End & iOS Development</b> 🌱</em>
+  <em>Diving deep into <b>Full Stack Development</b> &amp; <b>Startup Growth Strategies</b> 🚀</em>
 </p>
 
 <p align="center">
-  <em>Feel free to ask me about <b> Back End Python related Projects & IOS Related Projects</b> 💬</em>
+  <em>Eager to discuss <b>scalable web technologies &amp; groundbreaking startup ideas</b> 💬</em>
 </p>
 
 <p align="center">
-  <em>Connect with me via <a href="mailto:ahmedeslam1582002@gmail.com">email</a> 📫</em>
+  <em>Let's connect and innovate! Reach out via <a href="mailto:ahmedeslam1582002@gmail.com">email</a> 📫</em>
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Ttqim_tSvczu4DRF2q-tkkR8c-vSWB8A/view?usp=share_link">Check out my impressive journey and projects in my resume</a>
+  <a href="https://drive.google.com/file/d/1Ttqim_tSvczu4DRF2q-tkkR8c-vSWB8A/view?usp=share_link">Explore my journey and projects in my resume</a>
 </p>
 
 <p align="center">
