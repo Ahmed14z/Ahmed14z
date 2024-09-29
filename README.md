@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <em>Innovating at <a href="https://github.com/Ahmed14z/FINGU_Assistant">FINGU</a>, where creativity meets technology</em>
+  <em>Innovating at <a href="https://github.com/Ahmed14z/FINGU_Assistant">Grinda AI</a>, where creativity meets technology</em>
 </p>
 
 <p align="center">
