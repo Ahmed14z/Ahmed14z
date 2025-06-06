@@ -183,20 +183,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmed14z&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
-<!-- Projects Section -->
+<!-- Snake Section -->
 
 <div align="center">
-  <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30" />
-    Featured Projects
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30" />
-  </h2>
-</div>
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <a href="https://github.com/Ahmed14z/FINGU_Assistant">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed14z&repo=FINGU_Assistant&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=7c3aed&text_color=c084fc" />
-  </a>
 </div>
 
 <!-- Random Quote -->
